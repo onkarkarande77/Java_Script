@@ -8,6 +8,7 @@ let product=["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"];
 
 
 
+
 //discount   
 // let item=[250,645,300,900,50];
 
