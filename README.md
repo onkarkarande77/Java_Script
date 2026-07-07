@@ -15,7 +15,7 @@ This repository contains:
 The purpose of this repository is to improve JavaScript fundamentals through hands-on practice.
 
 ---
-
+ 
 # 📂 Projects & Practice Included
 
 ## 🎨 Animation
