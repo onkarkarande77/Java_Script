@@ -120,6 +120,6 @@ git clone https://github.com/onkarkarande77/Java_Script.git
 
 ---
 
-# ⭐ Support
+# ⭐ Support 
 
 If you like this repository, give it a ⭐ on GitHub.
