@@ -15,7 +15,7 @@ This repository contains:
 The purpose of this repository is to improve JavaScript fundamentals through hands-on practice.
 
 ---
-
+ 
 # 📂 Projects & Practice Included
 
 ## 🎨 Animation
@@ -120,6 +120,6 @@ git clone https://github.com/onkarkarande77/Java_Script.git
 
 ---
 
-# ⭐ Support
+# ⭐ Support 
 
 If you like this repository, give it a ⭐ on GitHub.
