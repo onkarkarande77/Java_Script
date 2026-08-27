@@ -1,6 +1,6 @@
 let newHeading=document.createElement("h1");
 newHeading.innerHTML="<i>Hi, I am new!</i>";
-
+ 
 document.querySelector("body").prepend(newHeading);
 
 // let newBtn=document.createElement("button");
