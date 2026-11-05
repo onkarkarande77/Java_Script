@@ -6,8 +6,6 @@ let product=["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"];
 
 
  
-    
-
 
 
 //discount   
